@@ -1,4 +1,4 @@
-# Project Title
+# Learning TypeScript
 
 This repository is used to learn TypeScript.
 
